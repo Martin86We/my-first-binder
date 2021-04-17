@@ -5,3 +5,4 @@ dependencies:
   - numpy
   - tensorflow
   - matplotlib
+  - gzip
